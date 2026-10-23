@@ -1,0 +1,57 @@
+MIT License
+
+Copyright (c) 2024 RippleMap AI Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ATTRIBUTION FOR INCLUDED COMPONENTS:
+
+RippleMap AI incorporates the following open-source projects:
+
+1. OpenStreetMap Data (ODbL 1.0)
+   - Used for road network data
+   - https://www.openstreetmap.org/copyright
+
+2. FastAPI (MIT License)
+   - Web framework for backend API
+   - https://fastapi.tiangolo.com/
+
+3. React & React Router (MIT License)
+   - Frontend UI framework and routing
+   - https://react.dev/
+
+4. Leaflet (BSD 2-Clause License)
+   - Interactive map library
+   - https://leafletjs.com/
+
+5. NetworkX (BSD 3-Clause License)
+   - Graph algorithms for network analysis
+   - https://networkx.org/
+
+6. GeoPandas (BSD 3-Clause License)
+   - Geospatial data manipulation
+   - https://geopandas.org/
+
+7. PostGIS (GNU General Public License v2.0)
+   - PostgreSQL spatial extension
+   - https://postgis.net/
+
+Please see individual component licenses for full details.

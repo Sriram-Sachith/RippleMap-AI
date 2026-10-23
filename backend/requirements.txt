@@ -1,0 +1,64 @@
+# FastAPI & Web
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Database
+sqlalchemy==2.0.23
+asyncpg==0.29.0
+psycopg2-binary==2.9.9
+geoalchemy2==0.14.1
+
+# Geospatial
+geopandas==0.14.0
+shapely==2.0.2
+networkx==3.2
+pyproj==3.6.1
+
+# Data Science
+pandas==2.1.3
+numpy==1.26.2
+scikit-learn==1.3.2
+
+# Analysis & Visualization
+matplotlib==3.8.2
+plotly==5.18.0
+
+# API Utilities
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Job Queue
+celery==5.3.4
+redis==5.0.1
+
+# Cloud Storage (optional)
+boto3==1.29.7
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+httpx==0.25.2
+tenacity==8.2.3
+
+# Monitoring & Logging
+python-json-logger==2.0.7
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+httpx==0.25.2
+
+# Linting & Code Quality
+black==23.12.0
+flake8==6.1.0
+isort==5.13.2
+mypy==1.7.1
+
+# Dev Tools
+ipython==8.17.2
+jupyter==1.0.0
